@@ -287,10 +287,11 @@ span {
   width: 100%;
   display: block;
 }
+/*
 .portfolio-img img:hover {
   transform: scale(1.02);
   transition: 0.5s;
-}
+}*/
 .contact-form {
   display: grid;
   place-items: center;
